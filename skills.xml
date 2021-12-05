@@ -1,0 +1,29 @@
+<course_skills>
+	<topic_1>Базовая теория</topic_1>
+        <topic_2>Что такое клиент - серверная архитектура</topic_2>
+        <topic_3>HTTP методы запросов на сервер</topic_3>
+	<topic_4>HTTP коды ответов сервера</topic_4>
+        <topic_5>Структура HTTP запросов и ответов</topic_5>
+        <topic_6>Что такое JSON,XML? Их структура</topic_6>
+        <topic_7>Тестирование API через Postman (JS,автотесты API)</topic_7>
+        <topic_8>Снятие и чтение логов с внешнего сервера</topic_8>
+        <topic_9>Снифинг HTTP web трафика через Charles и Fidder</topic_9>
+        <topic_10>DevTools веб браузеров (Google Chrome, FireFox)</topic_10>
+        <topic_11>VPN (Как работает, зачем нужен, варианты инструментов)</topic_11>
+        <topic_12>Мобильное тестирование</topic_12>
+        <topic_13>Особенность iOS,Android,гайдлайны</topic_13>
+        <topic_14>Сборка iOS приложений на XCode(У кого нет Мас,просто просмотр)</topic_14>
+        <topic_15>Сборка Android приложений на Android Studio</topic_15>
+        <topic_16>ADB (управление андроид девайсами)</topic_16>
+        <topic_17>Настройка прокси и VPN на iOS и Android</topic_17>
+        <topic_18>Перехват (сниффинг) мобильного трафика через Charles и Fidder на iOS,Android</topic_18>
+        <topic_19>Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение фаилов на серверах без графического интерфейса</topic_19>
+        <topic_20>Основы bash скриптинг, автоматизация рутинных задач на сервере</topic_20>
+        <topic_21>Доступ к удаленным серверам</topic_21>
+        <topic_22>Основы SQL (Create,Delete,Drop,Insert into,Select,From,Where,Join)</topic_22>
+        <topic_23>База данных Postgres(установка,настройка и использование)</topic_23>
+        <topic_24>Нереляционная база данных Redis(установка, настройка и использование)</topic_24>
+        <topic_25>Нагрузочное тестирование в Jmeter</topic_25>
+        <topic_26>Методология разработки Scrum</topic_26>
+        <topic_27>Python (изучение основ. Создание клиент-серверного приложения</topic_27>
+</course_skills>

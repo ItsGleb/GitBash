@@ -1,0 +1,12 @@
+<bug_report>
+	<bug_id>уникальный_идентификатор</bug_id>
+	<title>Заголовок бага. Составляется по формуле=Что? Где? При каких условиях?</title>
+	<environment>Пишем ОС + версия браузера, версия ОС (iOS, Android) телефона + модель телефона</environment>
+	<precondition>Предусловия для воспроизведения бага</precondition>
+	<str>Шаги воспроизведения</str>
+	<actual_result>Фактический результат</actual_result>
+	<expected_result>Ожидаемый результат</expected_result>
+	<attachments>Скриншоты,видео,логи</attachments>
+	<severity>Иногда назначает тестировщик. Суть - как баг влияет на приложение</severity>
+	<priority>Иногда назначает тестировщик. Суть - как баг влияет на бизнес</priority>
+</bug_report>
